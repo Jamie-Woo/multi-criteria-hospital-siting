@@ -14,7 +14,7 @@ This project analyzes regional data to identify the optimal location for establi
   - Welfare accessibility (senior welfare centers)
 -  **Top-Ranked Facility**: **Withus Geriatric Hospital (위더스요양병원)**
 
-## ⚙️ Technologies & Tools
+##  Technologies & Tools
 
 - Python (pandas, scikit-learn, folium, geopy)
 - GeoJSON, GPKG (for spatial data)
