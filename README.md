@@ -8,10 +8,10 @@ This project analyzes regional data to identify the optimal location for establi
 -  **Step 1**: Analyze regional indicators using PCA to determine the most suitable administrative district (시군구) — **Suwon City** was selected.
 -  **Step 2**: Identify candidate hospitals in Suwon that meet the Ministry of Health and Welfare criteria.
 -  **Final Selection**: Use the **TOPSIS** method (Technique for Order Preference by Similarity to Ideal Solution) to rank hospitals based on:
-  - Accessibility (bus & subway distance)
-  - Demand (elderly population)
-  - Environmental factors (green space)
-  - Welfare accessibility (senior welfare centers)
+    - Accessibility (bus & subway distance)
+    - Demand (elderly population)
+    - Environmental factors (green space)
+    - Welfare accessibility (senior welfare centers)
 -  **Top-Ranked Facility**: **Withus Geriatric Hospital (위더스요양병원)**
 
 ##  Technologies & Tools
