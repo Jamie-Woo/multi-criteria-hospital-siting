@@ -1,6 +1,6 @@
 #  Dementia Care Hospital Site Selection (2024 Summer Alpha Tester Project)
 
-This project analyzes regional data to identify the optimal location for establishing a new **Dementia Care Hospital** in South Korea. The project was conducted as part of the 2024 summer alpha tester program and aims to support national dementia policies by leveraging spatial data science and multi-criteria decision analysis.
+This project analyzes regional data to identify the optimal location for establishing a new **Dementia Care Hospital** in South Korea. The project was conducted as part of the 2024 summer alpha tester program(from IBAS, Big-Data club in Inha Univ.) and aims to support national dementia policies by leveraging spatial data science and multi-criteria decision analysis.
 
 ##  Project Summary
 
